@@ -1,0 +1,3 @@
+okay basically you need the programming language python (you can get it at python.org) and the library pynput, which you can get using this string in the command line, presuming you have python added to PATH (should've been a checkbox on installation, i think):
+"py -m pip install pynput"
+after that george should be ready to button mash all day
