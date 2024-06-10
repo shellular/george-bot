@@ -1,0 +1,14 @@
+{
+    "up": "w",
+    "down": "s",
+    "right": "d",
+    "left": "a",
+
+    "punch": "u",
+    "kick": "i",
+    "slash": "o",
+    "hslash": "p",
+    "dust": ";",
+
+    "taunt": "f"
+}
